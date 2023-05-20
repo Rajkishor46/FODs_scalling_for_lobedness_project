@@ -16,8 +16,6 @@ or equivalently
 
 a_i' = 0.5*(a_i+R_i).
 
-This should scale the FODs closer to the nuclei,
-preferentially toward the non-hydrogen nuclei,
-and move the double-bond FODs closer to the 
-bond axis.
+This should scale the FODs closer to the nuclei, preferentially toward the non-hydrogen nuclei,
+and move the double-bond FODs closer to the bond axis.
 ![image](https://github.com/Rajkishor46/FODs_scalling_for_lobedness_project/assets/66030028/5c1e9db4-46b1-4a43-a5c5-5946cd6d9295)
